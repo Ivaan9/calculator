@@ -79,4 +79,3 @@ class MainWindow(CTk):
             self.entry.configure(placeholder_text=int(a)+int(b))
 window = MainWindow()
 window.mainloop()
-#test
