@@ -71,7 +71,6 @@ class MainWindow(CTk):
         c = "+"
         a=self.entry._placeholder_text
         self.entry.configure(placeholder_text="")
-    def
     def dorin(self):
         global b
         b = self.entry._placeholder_text
